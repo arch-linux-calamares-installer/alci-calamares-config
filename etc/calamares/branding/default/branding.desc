@@ -132,7 +132,7 @@ strings:
     #supportUrl:          https://github.com/calamares/calamares/issues
     #knownIssuesUrl:      https://calamares.io/about/
     #releaseNotesUrl:     https://calamares.io/about/
-    #donateUrl:           https://kde.org/community/donations/index.php
+    donateUrl:           https://arcolinux.info/donation/
 
 # These images are loaded from the branding module directory.
 #
@@ -166,7 +166,7 @@ images:
     productIcon:         "squid.png"
     productLogo:         "squid.png"
     # productWallpaper:    "wallpaper.png"
-    productWelcome:      "languages.png"
+    productWelcome:      "2-alci.png"
 
 # Colors for text and background components.
 #
